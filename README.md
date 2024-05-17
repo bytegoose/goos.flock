@@ -1,4 +1,8 @@
-# goosflock
+# goos.flock
+[![Release Notes](https://img.shields.io/github/release/bytegoose/goos.flock)](https://github.com/bytegoose/goos.flock/releases)
+[![Downloads](https://static.pepy.tech/badge/goos.flock/month)](https://pepy.tech/project/goos.flock)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Gen AI Framework and Orchestration Engine
 The Goos.Flock - Gen AI Framework and Orchestration Engine serves as the central component of the AI infrastructure, facilitating the integration of Large Language Models (LLM) and Visual Language Models (VLM) into a conversational AI pipeline tailored for diverse sectors such as insurance, healthcare, retail, and travel, among others.
 
