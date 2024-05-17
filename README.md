@@ -1,6 +1,6 @@
 # goos.flock
 [![Release Notes](https://img.shields.io/github/release/bytegoose/goos.flock)](https://github.com/bytegoose/goos.flock/releases)
-[![Downloads](https://static.pepy.tech/badge/goos.flock/month)](https://pepy.tech/project/goos.flock)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Gen AI Framework and Orchestration Engine
