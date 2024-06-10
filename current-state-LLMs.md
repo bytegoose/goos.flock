@@ -33,11 +33,26 @@ The progress in Generative AI, encompassing both Large Language Models (LLM) and
 - Dialogue Systems/Chatbots: Building systems that can engage in a conversation with a human user.
 
 - Natural Language Generation (NLG): Converting structured data or concepts into natural language.
-
 - Coreference Resolution: Identifying when different words in a text refer to the same entity.
-
 - Language Modeling: Predicting the next word or character in a sequence of words or characters.
-
 - Dependency Parsing: Analyzing the grammatical structure of a sentence, for example, identifying the dependencies between words.
-
 - Text-to-Speech (TTS): Converting written text into spoken words.
+
+  #### Word Embeddings
+  #### TF-IDF (Term Frequency-Inverse Document Frequency
+
+  ### Encoder Models
+  ### Decoder Models
+  ### Encoder-Decoder Models
+  ### LSTM
+  ### RLU
+  ### Transformer Models
+
+  ### Generative Pre-Trained Models (GPT)
+  ### GPT-2
+    Research Paper: Language Models are Unsupervised Multitask Learners
+  ### GPT-3
+    Research Paper: Language Models are Few-Shot Learners
+  ### Text-To-Text Transfer Transformer (T5)
+
+  
