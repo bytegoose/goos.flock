@@ -8,7 +8,7 @@ The progress in Generative AI, encompassing both Large Language Models (LLM) and
 
 ### Natural Language Processing (NLP) encompasses a wide array of tasks that involve the interaction between computers and human language. Here are some of the key NLP tasks:
 
-- [Text Classification]: Assigning categories or labels to text according to its content. This includes sentiment analysis, spam detection, and topic labeling.
+- ||Text Classification||: Assigning categories or labels to text according to its content. This includes sentiment analysis, spam detection, and topic labeling.
 
 - Named Entity Recognition (NER): Identifying and classifying named entities in text into predefined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 
